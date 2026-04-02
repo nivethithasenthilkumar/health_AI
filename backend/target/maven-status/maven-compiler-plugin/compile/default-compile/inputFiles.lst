@@ -1,0 +1,9 @@
+N:\health_AI\backend\src\main\java\com\healthbuddy\backend\controller\PredictionsController.java
+N:\health_AI\backend\src\main\java\com\healthbuddy\backend\dto\LoginRequest.java
+N:\health_AI\backend\src\main\java\com\healthbuddy\backend\repository\UserRepository.java
+N:\health_AI\backend\src\main\java\com\healthbuddy\backend\BackendApplication.java
+N:\health_AI\backend\src\main\java\com\healthbuddy\backend\controller\HealthDataController.java
+N:\health_AI\backend\src\main\java\com\healthbuddy\backend\entity\HealthData.java
+N:\health_AI\backend\src\main\java\com\healthbuddy\backend\entity\User.java
+N:\health_AI\backend\src\main\java\com\healthbuddy\backend\repository\HealthDataRepository.java
+N:\health_AI\backend\src\main\java\com\healthbuddy\backend\controller\AuthController.java

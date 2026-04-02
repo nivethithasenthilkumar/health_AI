@@ -1,0 +1,10 @@
+com\healthbuddy\backend\controller\AuthController.class
+com\healthbuddy\backend\entity\User.class
+com\healthbuddy\backend\repository\HealthDataRepository.class
+com\healthbuddy\backend\repository\UserRepository.class
+com\healthbuddy\backend\BackendApplication$1.class
+com\healthbuddy\backend\BackendApplication.class
+com\healthbuddy\backend\entity\HealthData.class
+com\healthbuddy\backend\controller\HealthDataController.class
+com\healthbuddy\backend\dto\LoginRequest.class
+com\healthbuddy\backend\controller\PredictionsController.class

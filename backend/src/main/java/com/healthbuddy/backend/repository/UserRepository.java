@@ -1,0 +1,8 @@
+package com.healthbuddy.backend.repository;
+
+import com.healthbuddy.backend.entity.User;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface UserRepository extends JpaRepository<User, String> {
+    User findByEmail(String email);
+}

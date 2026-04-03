@@ -1,7 +1,7 @@
 Health AI
 
 https://drive.google.com/file/d/1HBFbQ6UgFgPrl8CwjKIkoIGWHBcxe6xG/view?usp=sharing
-
+Checkout the link for full  website Explanntion
 
 An AI-powered healthcare assistant designed to provide intelligent health insights, symptom analysis, and medical guidance using modern machine learning and natural language processing techniques.
 
